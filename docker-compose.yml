@@ -1,0 +1,6 @@
+app:
+  image: trinitronx/python-simplehttpserver
+  volumes:
+    - ".:/var/www"
+  environment:
+    - DOCKUP_EXPOSE_URL=true
