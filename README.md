@@ -1,2 +1,2 @@
 # dockup-test
-Minimal app to test dockup
+Minimal app to test dockup.
